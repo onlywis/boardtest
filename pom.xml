@@ -38,6 +38,7 @@
         <artifactId>h2</artifactId>
         <version>1.4.197</version>
     </dependency>
+    <!--
     <dependency>
         <groupId>org.aspectj</groupId>
         <artifactId>aspectjrt</artifactId>
@@ -48,5 +49,6 @@
         <artifactId>aspectjweaver</artifactId>
         <version>1.8.8</version>
     </dependency>
+    -->
 </dependencies>
 </project>
